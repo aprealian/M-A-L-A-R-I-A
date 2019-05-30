@@ -3,9 +3,9 @@ M-A-L-A-R-I-A Detection Using Image Processing and Machine Learning (Convolution
 
 Video :
 <br />
-Convolution and Cross-Correlation (Template Matching)
+Convolution NN Video Playlist
 <br />
-https://www.youtube.com/watch?v=MQm6ZP1F6ms&list=PL2kBhUsW43qwrtBAvNa_ceqnuMh4bFj16&index=2&t=0s
+https://www.youtube.com/playlist?list=PL2kBhUsW43qwrtBAvNa_ceqnuMh4bFj16
 <br />
 <br />
 
