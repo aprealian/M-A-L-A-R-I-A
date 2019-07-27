@@ -1,6 +1,14 @@
 # M-A-L-A-R-I-A
 M-A-L-A-R-I-A Detection Using Image Processing and Machine Learning (Convolutional Neural Network)
 
+Progress Report:
+<br />
+<b>Detecting Malaria using Convolutional Neural Network (CNN)</b>
+<br />
+https://tukangketik404.blogspot.com/2019/07/detecting-malaria-using-convolutional.html
+
+
+
 Video :
 <br />
 Convolution NN Video Playlist
